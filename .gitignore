@@ -1,3 +1,5 @@
 test
 data
-error.log
+filepaths-*.txt
+*-[0-9].csv
+*.log
